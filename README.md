@@ -5,7 +5,7 @@
 
 ## I'm a Developer, Instructor, Student, Learner!
 
-- 🔭 I’m currently working on a [Internmeets Website][website]!
+- 🔭 I’m currently working on a [Internmeets Website][internmeets]!
 - 🌱 I’m currently learning React and Flutter 🤣
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2020 Goals: Contribute more to Open Source projects and Work more on Personal Side Projects
@@ -53,3 +53,4 @@
 [youtube]: https://youtube.com/singhkunal2050
 [instagram]: https://instagram.com/singhkunal2050
 [linkedin]: https://linkedin.com/in/singhkunal2050
+[internmeets]: https://internmeets.netlify.app/
