@@ -46,7 +46,6 @@
 <br />
 <br />
 
----
 
 [website]: https://singhkunal2050.netlify.app
 [twitter]: https://twitter.com/singhkunal2050
