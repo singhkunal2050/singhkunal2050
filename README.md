@@ -55,3 +55,8 @@
 [instagram]: https://instagram.com/singhkunal2050
 [linkedin]: https://linkedin.com/in/singhkunal2050
 [internmeets]: https://internmeets.netlify.app/
+
+[![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=singhkunal2050)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
