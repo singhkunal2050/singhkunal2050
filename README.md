@@ -60,5 +60,5 @@
 
 [![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=singhkunal2050)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![html](img/tech/image 2.png) ![css](img/tech/image 3.png) ![javascript](img/tech/image 4.png) ![git](img/tech/image 5.png) ![github](img/tech/image 6.png) ![terminal](img/tech/image 7.png) ![react](img/tech/image 8.png) ![node](img/tech/image 9.png) ![php](img/tech/image 10.png) ![wordpress](img/tech/image 11.png) ![bootstrap](img/tech/image 12.png) ![netlify](img/tech/image 13.png) ![sass](img/tech/image 14.png) ![figma](img/tech/image 15.png) ![Adobe XD](img/tech/image 16.png) ![Python](img/tech/image 17.png) ![django](img/tech/image 18.png) ![eleventy](img/tech/image 19.png) ![mysql](img/tech/image 20.png) ![psql](img/tech/image 21.png) ![mongo db](img/tech/image 22.png) ![aws](img/tech/image 23.png) ![typscript](img/tech/image 24.png) ![vs code](img/tech/image 32.png)
 
