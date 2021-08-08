@@ -60,27 +60,28 @@
 
 [![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=singhkunal2050)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://singhkunal2050v2.netlify.app/img/tech/image 2.png" loading="lazy" height="20" alt="html">
-<img src="https://singhkunal2050v2.netlify.app/img/tech/image 3.png" loading="lazy" height="20" alt="css">
-<img src="https://singhkunal2050v2.netlify.app/img/tech/image 4.png" loading="lazy" height="20" alt="javascript">
-<img src="https://singhkunal2050v2.netlify.app/img/tech/image 5.png" loading="lazy" height="20" alt="git">
-<img src="https://singhkunal2050v2.netlify.app/img/tech/image 6.png" loading="lazy" height="20" alt="github">
-<img src="https://singhkunal2050v2.netlify.app/img/tech/image 7.png" loading="lazy" height="20" alt="terminal">
-<img src="https://singhkunal2050v2.netlify.app/img/tech/image 8.png" loading="lazy" height="20" alt="react">
-<img src="https://singhkunal2050v2.netlify.app/img/tech/image 9.png" loading="lazy" height="20" alt="node">
-<img src="https://singhkunal2050v2.netlify.app/img/tech/image 10.png" loading="lazy" height="20" alt="php">
-<img src="https://singhkunal2050v2.netlify.app/img/tech/image 11.png" loading="lazy" height="20" alt="wordpress">
-<img src="https://singhkunal2050v2.netlify.app/img/tech/image 12.png" loading="lazy" height="20" alt="bootstrap">
-<img src="https://singhkunal2050v2.netlify.app/img/tech/image 13.png" loading="lazy" height="20" alt="netlify">
-<img src="https://singhkunal2050v2.netlify.app/img/tech/image 14.png" loading="lazy" height="20" alt="sass">
-<img src="https://singhkunal2050v2.netlify.app/img/tech/image 15.png" loading="lazy" height="20" alt="figma">
-<img src="https://singhkunal2050v2.netlify.app/img/tech/image 16.png" loading="lazy" height="20" alt="Adobe XD">
-<img src="https://singhkunal2050v2.netlify.app/img/tech/image 17.png" loading="lazy" height="20" alt="Python">
-<img src="https://singhkunal2050v2.netlify.app/img/tech/image 18.png" loading="lazy" height="20" alt="django">
-<img src="https://singhkunal2050v2.netlify.app/img/tech/image 19.png" loading="lazy" height="20" alt="eleventy">
-<img src="https://singhkunal2050v2.netlify.app/img/tech/image 20.png" loading="lazy" height="20" alt="mysql">
-<img src="https://singhkunal2050v2.netlify.app/img/tech/image 21.png" loading="lazy" height="20" alt="psql">
-<img src="https://singhkunal2050v2.netlify.app/img/tech/image 22.png" loading="lazy" height="20" alt="mongo db">
-<img src="https://singhkunal2050v2.netlify.app/img/tech/image 23.png" loading="lazy" height="20" alt="aws">
-<img src="https://singhkunal2050v2.netlify.app/img/tech/image 24.png" loading="lazy" height="20" alt="typscript">
-<img src="https://singhkunal2050v2.netlify.app/img/tech/image 32.png" loading="lazy" height="20" alt="vs code">
+
+<img src="https://singhkunal2050v2.netlify.app/img/tech/image 2.png" loading="lazy" height="30" style="float:left;" alt="html">
+<img src="https://singhkunal2050v2.netlify.app/img/tech/image 3.png" loading="lazy" height="30" style="float:left;" alt="css">
+<img src="https://singhkunal2050v2.netlify.app/img/tech/image 4.png" loading="lazy" height="30" style="float:left;" alt="javascript">
+<img src="https://singhkunal2050v2.netlify.app/img/tech/image 5.png" loading="lazy" height="30" style="float:left;" alt="git">
+<img src="https://singhkunal2050v2.netlify.app/img/tech/image 6.png" loading="lazy" height="30" style="float:left;" alt="github">
+<img src="https://singhkunal2050v2.netlify.app/img/tech/image 7.png" loading="lazy" height="30" style="float:left;" alt="terminal">
+<img src="https://singhkunal2050v2.netlify.app/img/tech/image 8.png" loading="lazy" height="30" style="float:left;" alt="react">
+<img src="https://singhkunal2050v2.netlify.app/img/tech/image 9.png" loading="lazy" height="30" style="float:left;" alt="node">
+<img src="https://singhkunal2050v2.netlify.app/img/tech/image 10.png" loading="lazy" height="30" style="float:left;" alt="php">
+<img src="https://singhkunal2050v2.netlify.app/img/tech/image 11.png" loading="lazy" height="30" style="float:left;" alt="wordpress">
+<img src="https://singhkunal2050v2.netlify.app/img/tech/image 12.png" loading="lazy" height="30" style="float:left;" alt="bootstrap">
+<img src="https://singhkunal2050v2.netlify.app/img/tech/image 13.png" loading="lazy" height="30" style="float:left;" alt="netlify">
+<img src="https://singhkunal2050v2.netlify.app/img/tech/image 14.png" loading="lazy" height="30" style="float:left;" alt="sass">
+<img src="https://singhkunal2050v2.netlify.app/img/tech/image 15.png" loading="lazy" height="30" style="float:left;" alt="figma">
+<img src="https://singhkunal2050v2.netlify.app/img/tech/image 16.png" loading="lazy" height="30" style="float:left;" alt="Adobe XD">
+<img src="https://singhkunal2050v2.netlify.app/img/tech/image 17.png" loading="lazy" height="30" style="float:left;" alt="Python">
+<img src="https://singhkunal2050v2.netlify.app/img/tech/image 18.png" loading="lazy" height="30" style="float:left;" alt="django">
+<img src="https://singhkunal2050v2.netlify.app/img/tech/image 19.png" loading="lazy" height="30" style="float:left;" alt="eleventy">
+<img src="https://singhkunal2050v2.netlify.app/img/tech/image 20.png" loading="lazy" height="30" style="float:left;" alt="mysql">
+<img src="https://singhkunal2050v2.netlify.app/img/tech/image 21.png" loading="lazy" height="30" style="float:left;" alt="psql">
+<img src="https://singhkunal2050v2.netlify.app/img/tech/image 22.png" loading="lazy" height="30" style="float:left;" alt="mongo db">
+<img src="https://singhkunal2050v2.netlify.app/img/tech/image 23.png" loading="lazy" height="30" style="float:left;" alt="aws">
+<img src="https://singhkunal2050v2.netlify.app/img/tech/image 24.png" loading="lazy" height="30" style="float:left;" alt="typscript">
+<img src="https://singhkunal2050v2.netlify.app/img/tech/image 32.png" loading="lazy" height="30" style="float:left;" alt="vs code">
