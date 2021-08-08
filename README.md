@@ -1,7 +1,7 @@
 ### Hi there, I'm Kunal - aka [singhkunal2050][website] 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/singhkunal2050?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsinghkunal2050&screen_name=singhkunal2050)
-[![Website](https://img.shields.io/website?label=singhkunal2050.netlify.app&style=for-the-badge&url=https%3A%2F%2Fsinghkunal2050.netlify.app)](https://singhkunal2050.netlify.app)
+[![Website](https://img.shields.io/website?label=singhkunal2050.dev/&style=for-the-badge&url=https%3A%2F%2Fsinghkunal2050.dev/)](https://singhkunal2050.dev/)
 
 ## I'm a Developer, Instructor, Student, Learner!
 
