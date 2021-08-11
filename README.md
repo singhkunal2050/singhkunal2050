@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on a [BrandNeev Website][BrandNeev]!
 - 🌱 I’m currently learning React and Flutter and latest JS Libraries
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2020 Goals: Contribute more to Open Source projects and Work more on Personal Side Projects
+- 🥅 2021 Goals: Contribute more to Open Source projects and Work more on Personal Side Projects
 - ⚡ Fun fact: I love to play football and spend time in nature.
 
 <!-- ### Spotify Playing 🎧
