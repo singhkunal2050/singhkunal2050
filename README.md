@@ -1,4 +1,5 @@
-### Hi there, I'm Kunal - aka [singhkunal2050][website] 👋
+# Hi there, I'm Kunal - aka [singhkunal2050][website] 👋
+## Why are not at [my website yet][website] 🙄❓
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/singhkunal2050?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsinghkunal2050&screen_name=singhkunal2050)
 [![Website](https://img.shields.io/website?label=singhkunal2050.dev&style=for-the-badge&url=https%3A%2F%2Fsinghkunal2050.dev/)](https://singhkunal2050.dev)
@@ -48,7 +49,7 @@
 <br />
 
 
-[website]: https://singhkunal2050.netlify.app
+[website]: https://singhkunal2050.dev
 [twitter]: https://twitter.com/singhkunal2050
 [youtube]: https://youtube.com/singhkunal2050
 [instagram]: https://instagram.com/singhkunal2050
