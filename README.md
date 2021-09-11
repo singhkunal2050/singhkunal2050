@@ -43,7 +43,6 @@
 <img align="left" alt="py" width="26px" src="img/py.png" />
 <img align="left" alt="flutter" width="26px" src="img/flutter2.png" />
 
-
 <br />
 <br />
 
