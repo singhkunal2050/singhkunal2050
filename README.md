@@ -46,7 +46,6 @@
 <br />
 <br />
 
-
 [website]: https://singhkunal2050.dev
 [twitter]: https://twitter.com/singhkunal2050
 [youtube]: https://youtube.com/singhkunal2050
