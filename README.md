@@ -41,7 +41,6 @@
 <img align="left" alt="c" width="26px" src="img/c.png" />
 <img align="left" alt="cpp" width="26px" src="img/cpp.jpg" />
 <img align="left" alt="py" width="26px" src="img/py.png" />
-<img align="left" alt="flutter" width="26px" src="img/flutter2.png" />
 
 <br />
 <br />
