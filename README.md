@@ -7,7 +7,7 @@
 ## I'm a Developer, Instructor, Student, Learner!
 
 - 🔭 I’m currently working on Something Exciting!
-- 🌱 I’m currently learning React and Flutter and latest JS Libraries
+- 🌱 I’m currently learning React and new JS Libraries
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Contribute more to Open Source projects and Work more on Personal Side Projects
 - ⚡ Fun fact: I love to play football and spend time in nature.
