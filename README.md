@@ -69,10 +69,7 @@
 <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img alt="FIgma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 
-  
 </p>
-
-<br />
 
 [website]: https://singhkunal2050.dev
 [twitter]: https://twitter.com/singhkunal2050
@@ -82,6 +79,4 @@
 [BrandNeev]: http://brandneev.kernculture.com/
 
 <br />
-
-[![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=singhkunal2050)](https://github.com/anuraghazra/github-readme-stats)
 
