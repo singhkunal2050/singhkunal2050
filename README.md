@@ -1,3 +1,4 @@
+<div style="text-align:center">
 # Hi there, I'm Kunal - aka [singhkunal2050][website] 👋
 ## Why are you not at [my website yet][website] 🙄❓
 
@@ -79,3 +80,4 @@
 <br />
 
 [![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=singhkunal2050)](https://github.com/anuraghazra/github-readme-stats)
+</div>
