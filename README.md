@@ -2,6 +2,10 @@
 # Hi there, I'm Kunal - aka [singhkunal2050][website] 👋
 ## Why are you not at [my website yet][website] 🙄❓
 
+<a href="https://singhkunal2050.dev" target="_blank">
+<img src="https://raw.githubusercontent.com/singhkunal2050/singhkunal2050/master/img/singhkunal2050-cover.png" alt=singhkunal2050-cover style="margin-bottom: 5px;" />
+</a>
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/singhkunal2050?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsinghkunal2050&screen_name=singhkunal2050)
 [![Website](https://img.shields.io/website?label=singhkunal2050.dev&style=for-the-badge&url=https%3A%2F%2Fsinghkunal2050.dev/)](https://singhkunal2050.dev)
 
@@ -68,7 +72,6 @@
   
 </p>
 
-<br />
 <br />
 
 [website]: https://singhkunal2050.dev
