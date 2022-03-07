@@ -16,17 +16,7 @@
 <!-- ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
 
-### Connect with me:
-
-[<img align="left" alt="singhkunal2050.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="singhkunal2050 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="singhkunal2050 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br />
-
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=singhkunal2050&show_icons=true&theme=cobalt"></img>
-</div>
 
 ## Connect with me  
 <div align="center">
@@ -40,7 +30,9 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
  
- 
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=singhkunal2050&show_icons=true&theme=cobalt"></img>
+</div>
 
 <a href="https://stackoverflow.com/users/16058244/singhkunal2050" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
