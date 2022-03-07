@@ -38,7 +38,7 @@
 </div>
 
 <a href="https://stackoverflow.com/users/16058244/singhkunal2050" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/nishant_bhosale3/" target="_blank">
