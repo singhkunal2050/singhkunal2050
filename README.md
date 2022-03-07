@@ -37,13 +37,6 @@
    <img src="https://github-readme-stats.vercel.app/api?username=singhkunal2050&show_icons=true&theme=cobalt"></img>
 </div>
 
-<a href="https://stackoverflow.com/users/16058244/singhkunal2050" target="_blank">
-<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.instagram.com/nishant_bhosale3/" target="_blank">
-<img src=(https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
 </div>
 
 
