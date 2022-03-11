@@ -24,28 +24,6 @@
 
 [![Website](https://img.shields.io/website?label=singhkunal2050.dev&style=for-the-badge&url=https%3A%2F%2Fsinghkunal2050.dev/)](https://singhkunal2050.dev)
 
-## I'm a Developer, Instructor, Student, Learner!
-
-<div style="text-align:left;">
-- 🔭 I’m currently working on Something Exciting!
-- 🌱 I’m currently learning React and new JS Libraries
-- 👯 I’m looking to collaborate with other developers.
-- 🥅 2022 Goals: Contribute more to Open Source projects and Work more on Personal Side Projects
-- ⚡ Fun fact: I love to play football and spend time in nature.
-</div>
-  
-<!-- ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
-
-<br />
-
-
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=singhkunal2050&show_icons=true&theme=cobalt"></img>
-</div>
-
-</div>
-
 
 ### Languages and Tools:
 
@@ -71,6 +49,28 @@
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img alt="FIgma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+
+
+## I'm a Developer, Instructor, Student, Learner!
+
+- 🔭 I’m currently working on Something Exciting!
+- 🌱 I’m currently learning React and new JS Libraries
+- 👯 I’m looking to collaborate with other developers.
+- 🥅 2022 Goals: Contribute more to Open Source projects and Work more on Personal Side Projects
+- ⚡ Fun fact: I love to play football and spend time in nature.
+  
+<!-- ### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
+
+<br />
+
+
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=singhkunal2050&show_icons=true&theme=cobalt"></img>
+</div>
+
+</div>
+
 
 </p>
 
