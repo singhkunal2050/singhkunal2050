@@ -19,18 +19,18 @@
 <a href="https://codepen.io/singhkunal2050" target="_blank">
 <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt=twitter style="margin-bottom: 5px;" />
 </a>
- 
+
 [![Website](https://img.shields.io/website?label=singhkunal2050.dev&style=for-the-badge&url=https%3A%2F%2Fsinghkunal2050.dev/)](https://singhkunal2050.dev)
 
 ## I'm a Developer, Instructor, Student, Learner!
 
- <div style="text-align:left;">
+<div style="text-align:left;">
 - 🔭 I’m currently working on Something Exciting!
 - 🌱 I’m currently learning React and new JS Libraries
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2022 Goals: Contribute more to Open Source projects and Work more on Personal Side Projects
 - ⚡ Fun fact: I love to play football and spend time in nature.
- </div>
+</div>
   
 <!-- ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
