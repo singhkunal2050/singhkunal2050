@@ -71,7 +71,6 @@
 
 </div>
 
-
 </p>
 
 [website]: https://singhkunal2050.dev
