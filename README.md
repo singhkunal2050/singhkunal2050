@@ -66,6 +66,7 @@
 
 
 <div align="center">
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhkunal2050&show_icons=true)
    <img src="https://github-readme-stats.vercel.app/api?username=singhkunal2050&show_icons=true&theme=cobalt"></img>
 </div>
 
