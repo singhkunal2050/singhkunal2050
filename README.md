@@ -71,6 +71,9 @@
 
 </div>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=singhkunal2050)
+
+
 </p>
 
 [website]: https://singhkunal2050.dev
@@ -81,4 +84,6 @@
 [BrandNeev]: http://brandneev.kernculture.com/
 
 <br />
+
+
 
